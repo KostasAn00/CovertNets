@@ -1,4 +1,4 @@
-# CovertNets
+# Network Analysis
 
 Assignment for the course Networks and Dynamical Systems of the interfaculty graduate program "Networks and Complexity".
 
