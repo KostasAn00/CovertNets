@@ -10,4 +10,4 @@ The xlsx dataset for the investigation of the network was based on the relationa
 
 Koschade, S., A Social Network Analysis of Jemmah-Islamiyah: The
 Applications to Counterterorrism and Intelligence, Studies in Conflict
-and Terrorism, 29:6, 559-575.
+and Terrorism, 29:6, 559-575 DOI: 10.1080/10576100600798418.
