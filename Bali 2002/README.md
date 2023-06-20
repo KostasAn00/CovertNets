@@ -1,10 +1,11 @@
 # Network Analysis
 
-Assignment for the course Networks and Dynamical Systems of the interfaculty graduate program "Networks and Complexity".
+Assignments for the courses provided by the Master's Program "Network and Complexity".
 
-The aim of the project was the analysis of a chosen network in order to gain familiarity with several metrics essential to network analysis.
-In this repository, we analyze the terrorist network that participated in the Bali bombings in 2002. The jupyter notebook that 
-contains the analysis is provided along with the data as an edgelist in xlsx format.
+The aim of the "Bali Bombing 10-2022 Analysis" project was intended for gaining familiarity with several metrics essential to network analysis.
+The second jupyter notebook called "Terrorist Networks - Entropy Analysis" investigates the same network from the perspective of information theory.
+Entropy measures are deployed to investigate the structure of the network and several metrics are tested to assess which ones are more effective for
+a complete network dismantlement. 
 
 The xlsx dataset for the investigation of the network was based on the relational matrix of the following paper:
 
